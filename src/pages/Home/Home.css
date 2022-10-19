@@ -1,0 +1,20 @@
+.home-container {
+    /* width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important; */
+    height: 100vh;
+    /* box-shadow: 0 0 10px 0 rgba(0,0,0,1) !important; */
+    /* clip-path: polygon(0 0, 100% 0, 100% 80%, 0 90%); */
+    /* background: linear-gradient(to bottom, rgba(173, 240, 209,.2), rgba(173, 240, 209,.2)) ,url(../../assets/bg94.png); */
+    /* background: linear-gradient(to right, rgba(0, 255, 209, .1), rgba(0, 255, 209, .1)); */
+    /* background: linear-gradient(rgba(173, 240, 209,.1), rgba(173, 240, 209,.2)), url(../../assets/bg34.png); */
+    /* background-repeat: no-repeat; */
+    /* max-height: 100vh; */
+    /* filter: blur(10rem); */
+    background: url(../../assets/bgBook.jpg);
+    background-size: 20%;
+    background-position: center;
+}
+.home-col {
+    padding: 0;
+}
